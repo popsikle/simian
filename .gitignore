@@ -1,0 +1,16 @@
+*.pyc
+.eggs/
+VE/
+contents.tar.gz
+dist/
+etc/simian/ssl/
+etc/simian/settings.cfg
+gae_bundle/
+install_name_tool
+*.pkg
+simian_M2Crypto-*.egg
+src/simian.egg-info/
+src/simian/mac/admin/js/simian.js
+test
+tmpcontents/
+tmppkgs/
